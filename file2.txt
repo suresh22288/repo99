@@ -1,2 +1,3 @@
 line one of file2.txt
 line two of file2.txt
+line three of file2.txt by remote repository
